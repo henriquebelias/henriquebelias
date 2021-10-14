@@ -4,6 +4,12 @@ My name is Henrique Brito Elias, i'm from Anápolis, Goiás, Brasil. Started lea
 
 My main stacks are HTML, CSS, Javascript (React) in front-end and Node (Express) in back-end. But i also study Java (Spring), Python and a little bit of Dart (Flutter)
 
+[![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquebelias&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquebelias&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
 **henriquebelias/henriquebelias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
