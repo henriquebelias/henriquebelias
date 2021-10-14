@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Henrique Brito Elias, i'm from Anápolis, Goiás, Brasil. Started learning web development in 2020 at [Trybe](https://www.betrybe.com/).
+
+My main stacks are HTML, CSS, Javascript (React) in front-end and Node (Express) in back-end. But i also study Java (Spring), Python and a little bit of Dart (Flutter)
+
 <!--
 **henriquebelias/henriquebelias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
