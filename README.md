@@ -2,7 +2,7 @@
 
 My name is Henrique Brito Elias, i'm from Anápolis, Goiás, Brasil. Started learning web development in 2020 at [Trybe](https://www.betrybe.com/).
 
-My main stacks are HTML, CSS, Javascript (React and Angular) in front-end and Node (Express) in back-end. But i also study Java (Spring), Python and a little bit of Dart (Flutter)
+My main stacks are HTML, CSS, Javascript / Typescript (React and Angular) in front-end and Node (Express) in back-end. But i also study Java (Spring), Python and a little bit of Dart (Flutter)
 
 [LinkedIn](https://www.linkedin.com/in/henrique-brito-elias/)
 
