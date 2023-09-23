@@ -6,7 +6,7 @@ My main stacks are HTML, CSS, Javascript / Typescript (React and Angular) in fro
 
 [LinkedIn](https://www.linkedin.com/in/henrique-brito-elias/)
 
-[![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquebelias&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquebelias&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquebelias&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
