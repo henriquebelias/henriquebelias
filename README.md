@@ -13,6 +13,9 @@ My main stacks are HTML, CSS, Javascript / Typescript (React and Angular) in fro
 
 
 <!--
+tempo de experiencia, stacks, focos de atuação
+
+
 **henriquebelias/henriquebelias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
